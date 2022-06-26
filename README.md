@@ -10,6 +10,8 @@
 - flex-flow
 - align-content
 
+- Documentação: https://css-tricks.com/snippets/css/a-guide-to-flexbox/#aa-flexbox-properties
+
 
 ## justify-content: que alinha itens horizontalmente, e aceita os seguintes valores:
 
