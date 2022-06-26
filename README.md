@@ -14,12 +14,12 @@
 
 ## justify-content: que alinha itens horizontalmente, e aceita os seguintes valores:
 
-	* flex-start: Itens se alinham à esquerda do container.
-	* flex-end: Itens se alinham à direita do container.
-	* center: Itens se alinham no centro do container.
-	* space-between: Itens se alinham com distância igual entre eles.
-	* space-around: Itens se alinham com distância igual em torno deles.
-	Por exemplo, justify-content: flex-end; moverá o item para a direita.
+- flex-start: Itens se alinham à esquerda do container.
+- flex-end: Itens se alinham à direita do container.
+- center: Itens se alinham no centro do container.
+- space-between: Itens se alinham com distância igual entre eles.
+- space-around: Itens se alinham com distância igual em torno deles.
+Por exemplo, justify-content: flex-end; moverá o item para a direita.
 
 
 ## align-items: alinha os itens verticalmente e aceita os seguintes valores:
